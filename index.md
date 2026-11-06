@@ -1,5 +1,5 @@
 # Pratham Aggarwal, praggarwal@ucsd.edu
-# Lily Weng, D26
+## D26 Trustworthy Large Language Models, Lily Weng
 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic covered in our domain was how to make LLMs. more trustworty, essentially finding way using steering or finetuning to audit their behavior at inference.
